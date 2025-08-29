@@ -1,6 +1,4 @@
-# :foguete: Painel de Operações Apollo - Documentação
-**Author:** Felipe Marcondes
-**Co-Author:** Giovanni Muller
+
 **Versão Final:** 1.0
 ---
 ## :livro: Introdução
@@ -68,3 +66,7 @@ Nós pensamos nele como um **assistente invisível**, cuidando da parte repetiti
 Assim, nossa equipe pode se concentrar no que realmente importa: **atender bem os clientes e fechar negócios**, sem desperdício de tempo com verificações manuais.
 ---
 > :mão_escrevendo: Documentação escrita por **Giovanni Muller**, em parceria com **Felipe Marcondes**.
+>
+> # :foguete: Painel de Operações Apollo - Documentação
+**Author:** Felipe Marcondes
+**Co-Author:** Giovanni Muller
